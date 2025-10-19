@@ -40,13 +40,16 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 ---
 ## 🧰 Tech Toolbox
 
+<table>
+<tr>
+  <!-- Left column: Languages, Tools & Concepts -->
+  <td valign="top">
+
 ### 🛠️ Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🧩 Tools & Platforms
 ![ROS](https://img.shields.io/badge/ROS-22314F?style=flat-square&logo=ros&logoColor=white)
@@ -66,9 +69,15 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-555?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-555?style=flat-square)
 
-<p align="right">
-  <img src="https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif"width="300" alt="Animated Tech Toolbox">
-</p>
+  </td>
+
+  <!-- Right column: GIF -->
+  <td valign="top" align="center">
+    <img src="https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif" width="250" alt="Tech Toolbox GIF">
+  </td>
+</tr>
+</table>
+
 
 
 ---
