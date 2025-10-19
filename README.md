@@ -66,8 +66,15 @@ I design and integrate intelligent robotic systems — combining hardware, softw
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ibucz&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
   <br>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibucz&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+  <br>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibucz&theme=dark&hide_border=true">
+  <br>
+  <img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=ibucz&theme=react-dark&hide_border=true">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ibucz&theme=onedark&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 </details>
+
 
 ---
 
