@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/ibucz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ibucz-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ahmed-bin-abdulaziz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:ahmed@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:eng.azizhindi@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -181,5 +181,5 @@ Developed an AI-powered object detection system using TensorFlow and OpenCV, cap
 
 # 📫 Connect
 - 💼 LinkedIn: [linkedin.com/in/ahmed-bin-abdulaziz](https://www.linkedin.com/in/ahmed-bin-abdulaziz)  
-- 📧 Email: `ahmed@example.com`  
+- 📧 Email: `eng.azizhindi@gmail.com`  
 - 🧠 GitHub: [github.com/ibucz](https://github.com/ibucz)
