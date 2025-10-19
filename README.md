@@ -38,7 +38,6 @@ I'm **Ahmed Bin Abdulaziz**, a passionate **Mechatronics Engineer** specializing
 I design and integrate intelligent robotic systems — combining hardware, software, and AI to create real-world automation solutions.
 
 ---
-
 ## 🧰 Tech Toolbox
 
 ### 🛠️ Languages & Frameworks
@@ -66,6 +65,10 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 ![MPC](https://img.shields.io/badge/MPC-555?style=flat-square)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-555?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-555?style=flat-square)
+
+<p align="right">
+  <img src="[https://github.com/yourusername/yourrepository/blob/main/yourgif.gif" width="300" alt="Animated Tech Toolbox](https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif)">
+</p>
 
 
 ---
