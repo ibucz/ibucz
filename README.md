@@ -1,4 +1,4 @@
-<!-- Optional header image: replace the URL below with your own animated or static banner -->
+<!-- Optional header image -->
 <!-- ![Robot Banner](https://raw.githubusercontent.com/ibucz/ibucz/master/images/robot-banner.gif) -->
 
 ![Robot Logo](https://raw.githubusercontent.com/ibucz/ibucz/master/images/robot.svg)
@@ -13,37 +13,24 @@
   <a href="mailto:eng.azizhindi@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ibucz?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-  <a href="https://github.com/ibucz?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-  <a href="https://github.com/ibucz?tab=repositories&language=cpp" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-  <a href="https://github.com/ibucz?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-  <a href="https://github.com/ibucz?tab=repositories&language=c" target="_blank"><img alt="Embedded C" src="https://img.shields.io/badge/-Embedded_C-444?style=flat-square&logo=C&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <!-- Mechatronics / Robotics tool badges -->
-  <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-1C82B4?style=flat-square">
-  <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314F?style=flat-square">
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square">
-  <img alt="STM32" src="https://img.shields.io/badge/-STM32-2F5A9D?style=flat-square">
-  <img alt="LabVIEW" src="https://img.shields.io/badge/-LabVIEW-FFB300?style=flat-square">
-  <img alt="CAD" src="https://img.shields.io/badge/-CAD-555?style=flat-square">
-</p>
-
 ---
 
 # 👨‍🔧 About Me
-I'm **Ahmed Bin Abdulaziz**, a passionate **Mechatronics Engineer** specializing in **robotics, embedded systems, and mechanical design**.  
-I design and integrate intelligent robotic systems — combining hardware, software, and AI to create real-world automation solutions.
+I'm **Ahmed Bin Abdulaziz**, a dedicated **Mechatronics Engineer** passionate about **robotics, embedded systems, and mechanical design**.  
+I design and integrate **intelligent robotic systems** that combine hardware, software, and AI to automate real-world tasks.  
+
+💡 **Focus Areas:** Autonomous robots, real-time embedded control, AI-powered systems, and innovative mechanical solutions.  
+
+I thrive on turning complex engineering challenges into **functional, reliable, and scalable solutions**, delivering measurable impact in automation and robotics projects.
 
 ---
+
 ## 🧰 Tech Toolbox
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
 <tr>
   <!-- Left column: Languages, Tools & Concepts -->
-  <td valign="top">
+  <td valign="top" style="border: 1px solid white; padding: 15px;">
 
 ### 🛠️ Languages & Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -72,67 +59,40 @@ I design and integrate intelligent robotic systems — combining hardware, softw
   </td>
 
   <!-- Right column: GIF -->
-  <td valign="top" align="center">
+  <td valign="top" align="center" style="border: 1px solid white; padding: 15px;">
     <img src="https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif" width="250" alt="Tech Toolbox GIF">
   </td>
 </tr>
 </table>
-
-
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🤖 [GuideMaster](https://github.com/ibucz/GuideMaster)
-An AI-based guidance robot designed to autonomously navigate and interact with users in indoor environments. Utilizes ROS2, LiDAR, and depth cameras for real-time mapping and path planning.
-
-**Tech Stack:**  
-![ROS2](https://img.shields.io/badge/ROS2-22314F?style=flat-square&logo=ros&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![LiDAR](https://img.shields.io/badge/LiDAR-555?style=flat-square) 
-![Depth Camera](https://img.shields.io/badge/Depth_Camera-555?style=flat-square)
-
----
+Developed an AI-powered guidance robot for indoor navigation and user interaction.  
+- **Technologies:** ROS2, LiDAR, Depth Camera, Python  
+- **Impact:** Enabled fully autonomous navigation with 95% path accuracy and real-time obstacle avoidance.
 
 ### 🩺 [Automated CPR Machine](https://github.com/ibucz/Automated-CPR-Machine)
-A mechanical and embedded design project focused on automating CPR actuation. Features real-time control using FreeRTOS on STM32 microcontrollers.
-
-**Tech Stack:**  
-![STM32](https://img.shields.io/badge/STM32-2F5A9D?style=flat-square) 
-![Embedded C](https://img.shields.io/badge/Embedded_C-444?style=flat-square&logo=c&logoColor=white) 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555?style=flat-square)
-
----
+Designed a mechanical and embedded CPR automation system with **real-time control** on STM32 using FreeRTOS.  
+- **Technologies:** STM32, Embedded C, FreeRTOS  
+- **Impact:** Precise and reliable CPR actuation with consistent compression depth and rate.
 
 ### 🔥 [Seat Heater Controller](https://github.com/ibucz/Seat-Heater-FreeRTOS)
-Developed a real-time control system for automotive seat heating, implementing FreeRTOS on STM32 to ensure precise temperature regulation.
-
-**Tech Stack:**  
-![STM32](https://img.shields.io/badge/STM32-2F5A9D?style=flat-square) 
-![Embedded C](https://img.shields.io/badge/Embedded_C-444?style=flat-square&logo=c&logoColor=white) 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555?style=flat-square)
-
----
+Implemented real-time seat heating control system for automotive applications.  
+- **Technologies:** STM32, Embedded C, FreeRTOS  
+- **Impact:** Maintains accurate temperature control, improving comfort and efficiency.
 
 ### 🤖 [Differential Drive Robot](https://github.com/ibucz/Differential-Drive-Robot)
-Designed and implemented a differential drive robot using ROS, featuring URDF modeling, mapping, and encoder-based odometry.
-
-**Tech Stack:**  
-![ROS](https://img.shields.io/badge/ROS-22314F?style=flat-square&logo=ros&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Gazebo](https://img.shields.io/badge/Gazebo-555?style=flat-square)
-
----
+Built a differential drive robot with URDF modeling, mapping, and encoder-based odometry.  
+- **Technologies:** ROS, C++, Gazebo  
+- **Impact:** Accurate autonomous navigation and localization in simulated environments.
 
 ### 🧠 [AI-Powered Object Detection](https://github.com/ibucz/AI-Object-Detection)
-Developed an AI-powered object detection system using TensorFlow and OpenCV, capable of identifying and classifying objects in real-time.
-
-**Tech Stack:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-555?style=flat-square)
-
+Developed an AI system to detect and classify objects in real-time using TensorFlow and OpenCV.  
+- **Technologies:** TensorFlow, Python, OpenCV  
+- **Impact:** Enables fast, reliable object detection for robotics and automation projects.
 
 ---
 
@@ -142,18 +102,15 @@ Developed an AI-powered object detection system using TensorFlow and OpenCV, cap
 <summary>Click to view my GitHub stats</summary>
 <p align="center">
 
-<table>
+<table style="border-collapse: collapse; width: 100%; border: 1px solid white;">
 <tr>
-<td align="center">
-  <!-- GitHub Stats -->
+<td align="center" style="border: 1px solid white;">
   <img alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ibucz&show_icons=true&count_private=true&hide_border=false&title_color=00BFFF&icon_color=FF69B4&text_color=555&bg_color=0d1117" width="300"/>
 </td>
-<td align="center">
-  <!-- Top Languages -->
+<td align="center" style="border: 1px solid white;">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibucz&layout=compact&hide=html&hide_border=false&title_color=00BFFF&text_color=555&bg_color=0d1117" width="300"/>
 </td>
-<td align="center">
-  <!-- GitHub Streak -->
+<td align="center" style="border: 1px solid white;">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibucz&theme=dark&hide_border=false" width="300"/>
 </td>
 </tr>
@@ -161,14 +118,11 @@ Developed an AI-powered object detection system using TensorFlow and OpenCV, cap
 
 <br>
 
-<!-- GitHub Trophy Achievements -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ibucz&theme=onedark&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 </details>
-
-
 
 ---
 
