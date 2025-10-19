@@ -59,21 +59,38 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Achievements
+
 <details>
-<summary>Click to view</summary>
+<summary>Click to view my GitHub stats</summary>
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ibucz&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-  <br>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibucz&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-  <br>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibucz&theme=dark&hide_border=true">
-  <br>
-  <img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=ibucz&theme=react-dark&hide_border=true">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ibucz&theme=onedark&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
+
+<!-- GitHub Stats Card -->
+<img alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ibucz&show_icons=true&count_private=true&hide_border=false&title_color=00BFFF&icon_color=FF69B4&text_color=555&bg_color=0d1117">
+
+<br>
+
+<!-- Top Languages -->
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibucz&layout=compact&hide=html&hide_border=false&title_color=00BFFF&text_color=555&bg_color=0d1117">
+
+<br>
+
+<!-- GitHub Streak Stats -->
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibucz&theme=dark&hide_border=false">
+
+<br>
+
+<!-- Contribution Graph -->
+<img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=ibucz&theme=react-dark&hide_border=false">
+
+<br>
+
+<!-- GitHub Trophy Achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=ibucz&theme=onedark&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
+
 </p>
 </details>
+
 
 
 ---
