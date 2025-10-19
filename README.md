@@ -50,12 +50,56 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 ---
 
 # 🚀 Featured Projects
-| Project | Description |
-|----------|--------------|
-| [**GuideMaster**](https://github.com/ibucz/GuideMaster) | AI-based guidance robot using ROS2, LiDAR, and depth camera for autonomous navigation & interaction. |
-| [**Automated CPR Machine**](https://github.com/ibucz/Automated-CPR-Machine) | Mechanical & embedded design for automated CPR actuation with real-time control. |
-| [**Seat Heater Controller**](https://github.com/ibucz/Seat-Heater-FreeRTOS) | Real-time control system using FreeRTOS on STM32. |
-| [**Differential Drive Robot**](https://github.com/ibucz/Differential-Drive-Robot) | URDF modeling, mapping, and encoder-based odometry using ROS. |
+
+### 🤖 [GuideMaster](https://github.com/ibucz/GuideMaster)
+An AI-based guidance robot designed to autonomously navigate and interact with users in indoor environments. Utilizes ROS2, LiDAR, and depth cameras for real-time mapping and path planning.
+
+**Tech Stack:**  
+![ROS2](https://img.shields.io/badge/ROS2-22314F?style=flat-square&logo=ros&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![LiDAR](https://img.shields.io/badge/LiDAR-555?style=flat-square) 
+![Depth Camera](https://img.shields.io/badge/Depth_Camera-555?style=flat-square)
+
+---
+
+### 🩺 [Automated CPR Machine](https://github.com/ibucz/Automated-CPR-Machine)
+A mechanical and embedded design project focused on automating CPR actuation. Features real-time control using FreeRTOS on STM32 microcontrollers.
+
+**Tech Stack:**  
+![STM32](https://img.shields.io/badge/STM32-2F5A9D?style=flat-square) 
+![Embedded C](https://img.shields.io/badge/Embedded_C-444?style=flat-square&logo=c&logoColor=white) 
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555?style=flat-square)
+
+---
+
+### 🔥 [Seat Heater Controller](https://github.com/ibucz/Seat-Heater-FreeRTOS)
+Developed a real-time control system for automotive seat heating, implementing FreeRTOS on STM32 to ensure precise temperature regulation.
+
+**Tech Stack:**  
+![STM32](https://img.shields.io/badge/STM32-2F5A9D?style=flat-square) 
+![Embedded C](https://img.shields.io/badge/Embedded_C-444?style=flat-square&logo=c&logoColor=white) 
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555?style=flat-square)
+
+---
+
+### 🤖 [Differential Drive Robot](https://github.com/ibucz/Differential-Drive-Robot)
+Designed and implemented a differential drive robot using ROS, featuring URDF modeling, mapping, and encoder-based odometry.
+
+**Tech Stack:**  
+![ROS](https://img.shields.io/badge/ROS-22314F?style=flat-square&logo=ros&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Gazebo](https://img.shields.io/badge/Gazebo-555?style=flat-square)
+
+---
+
+### 🧠 [AI-Powered Object Detection](https://github.com/ibucz/AI-Object-Detection)
+Developed an AI-powered object detection system using TensorFlow and OpenCV, capable of identifying and classifying objects in real-time.
+
+**Tech Stack:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-555?style=flat-square)
+
 
 ---
 
