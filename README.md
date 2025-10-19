@@ -169,13 +169,6 @@ Developed an AI-powered object detection system using TensorFlow and OpenCV, cap
 </details>
 
 
----
-
-# 🔁 Animated Intro (Optional)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ibucz/ibucz/master/images/robot-loop.gif" width="400" alt="Looping Robot Animation"><br>
-  <em>A short looping animation: “Ahmed Bin Abdulaziz — Mechatronics Engineering in Motion”</em>
-</p>
 
 ---
 
