@@ -65,32 +65,31 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 <summary>Click to view my GitHub stats</summary>
 <p align="center">
 
-<!-- GitHub Stats Card -->
-<img alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ibucz&show_icons=true&count_private=true&hide_border=false&title_color=00BFFF&icon_color=FF69B4&text_color=555&bg_color=0d1117">
-
-<br>
-
-<!-- Top Languages -->
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibucz&layout=compact&hide=html&hide_border=false&title_color=00BFFF&text_color=555&bg_color=0d1117">
-
-<br>
-
-<!-- GitHub Streak Stats -->
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibucz&theme=dark&hide_border=false">
-
-<br>
-
-<!-- Contribution Graph -->
-<img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=ibucz&theme=react-dark&hide_border=false">
+<table>
+<tr>
+<td align="center">
+  <!-- GitHub Stats -->
+  <img alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ibucz&show_icons=true&count_private=true&hide_border=false&title_color=00BFFF&icon_color=FF69B4&text_color=555&bg_color=0d1117" width="300"/>
+</td>
+<td align="center">
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibucz&layout=compact&hide=html&hide_border=false&title_color=00BFFF&text_color=555&bg_color=0d1117" width="300"/>
+</td>
+<td align="center">
+  <!-- GitHub Streak -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ibucz&theme=dark&hide_border=false" width="300"/>
+</td>
+</tr>
+</table>
 
 <br>
 
 <!-- GitHub Trophy Achievements -->
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ibucz&theme=onedark&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
-
 </p>
-</details>
 
+</details>
 
 
 ---
