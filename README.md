@@ -39,13 +39,34 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 
 ---
 
-# ⚙️ Skills & Tools
-- **Mechanical / CAD:** SolidWorks, Inventor, Fusion 360, Solid Edge  
-- **Embedded / Control:** STM32, AVR, Arduino, FreeRTOS, AUTOSAR concepts  
-- **Robotics / SW:** ROS / ROS2, Gazebo, SLAM, Path Planning, PID / MPC  
-- **Programming:** C, C++, Python, MATLAB/Simulink, Bash  
-- **Electronics:** Circuit design, motor sizing, LiDAR, IMU, encoder-based systems  
-- **Other:** LabVIEW, PCB prototyping, version control (Git), CI for robotics
+## 🧰 Tech Toolbox
+
+### 🛠️ Languages & Frameworks
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🧩 Tools & Platforms
+![ROS](https://img.shields.io/badge/ROS-22314F?style=flat-square&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314F?style=flat-square&logo=ros&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-2F5A9D?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-1C82B4?style=flat-square)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB300?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🧠 Concepts & Methodologies
+![SLAM](https://img.shields.io/badge/SLAM-555?style=flat-square)
+![Path Planning](https://img.shields.io/badge/Path_Planning-555?style=flat-square)
+![PID Control](https://img.shields.io/badge/PID_Control-555?style=flat-square)
+![MPC](https://img.shields.io/badge/MPC-555?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-555?style=flat-square)
+![AI](https://img.shields.io/badge/AI-555?style=flat-square)
+
 
 ---
 
