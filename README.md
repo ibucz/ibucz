@@ -60,7 +60,7 @@ I thrive on turning complex engineering challenges into **functional, reliable, 
 
   <!-- Right column: GIF -->
   <td valign="top" align="center" style="border: 1px solid white; padding: 15px;">
-    <img src="https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif" width="250" alt="Tech Toolbox GIF">
+    <img src="https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif" width="500" alt="Tech Toolbox GIF">
   </td>
 </tr>
 </table>
