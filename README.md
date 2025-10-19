@@ -67,7 +67,7 @@ I design and integrate intelligent robotic systems — combining hardware, softw
 ![AI](https://img.shields.io/badge/AI-555?style=flat-square)
 
 <p align="right">
-  <img src="https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif">
+  <img src="https://github.com/demartini/demartini/blob/0ad67940b3274d7c5f94ca8d207e6c5c58155beb/code.gif"width="300" alt="Animated Tech Toolbox">
 </p>
 
 
