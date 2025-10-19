@@ -1,7 +1,4 @@
-<!-- Optional header image -->
-<!-- ![Robot Banner](https://raw.githubusercontent.com/ibucz/ibucz/master/images/robot-banner.gif) -->
 
-![Robot Logo](https://raw.githubusercontent.com/ibucz/ibucz/master/images/robot.svg)
 
 <p align="center">
   <strong>Ahmed Bin Abdulaziz</strong> — Mechatronics Engineer & Robotics Enthusiast 🤖
