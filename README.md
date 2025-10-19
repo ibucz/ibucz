@@ -67,32 +67,49 @@ I thrive on turning complex engineering challenges into **functional, reliable, 
 
 ---
 
+---
+
 # 🚀 Featured Projects
 
-### 🤖 [GuideMaster](https://github.com/ibucz/GuideMaster)
-Developed an AI-powered guidance robot for indoor navigation and user interaction.  
-- **Technologies:** ROS2, LiDAR, Depth Camera, Python  
-- **Impact:** Enabled fully autonomous navigation with 95% path accuracy and real-time obstacle avoidance.
+### 🏠 [SMART-HOUSE-AVR](https://github.com/ibucz/SMART-HOUSE-AVR.git)
+A **Smart Home System** using AVR microcontrollers, allowing control of air conditioning, lighting, security, and wireless communication.  
+**Tech Stack:**  
+![AVR](https://img.shields.io/badge/AVR-555?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Bluetooth](https://img.shields.io/badge/Bluetooth-555?style=flat-square)  
+**Key Features:** Temperature regulation, LED lighting control, motion-based security, remote wireless access.
 
-### 🩺 [Automated CPR Machine](https://github.com/ibucz/Automated-CPR-Machine)
-Designed a mechanical and embedded CPR automation system with **real-time control** on STM32 using FreeRTOS.  
-- **Technologies:** STM32, Embedded C, FreeRTOS  
-- **Impact:** Precise and reliable CPR actuation with consistent compression depth and rate.
+---
 
-### 🔥 [Seat Heater Controller](https://github.com/ibucz/Seat-Heater-FreeRTOS)
-Implemented real-time seat heating control system for automotive applications.  
-- **Technologies:** STM32, Embedded C, FreeRTOS  
-- **Impact:** Maintains accurate temperature control, improving comfort and efficiency.
+### 🚗 [AUTOSAR](https://github.com/ibucz/AUTOSAR.git)
+Exploration and implementation of **AUTOSAR architecture** for automotive ECUs.  
+**Tech Stack:**  
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-555?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
+**Key Features:** BSW & RTE layers, device drivers, interior light control ECU design, error management (DET & DEM).
 
-### 🤖 [Differential Drive Robot](https://github.com/ibucz/Differential-Drive-Robot)
-Built a differential drive robot with URDF modeling, mapping, and encoder-based odometry.  
-- **Technologies:** ROS, C++, Gazebo  
-- **Impact:** Accurate autonomous navigation and localization in simulated environments.
+---
 
-### 🧠 [AI-Powered Object Detection](https://github.com/ibucz/AI-Object-Detection)
-Developed an AI system to detect and classify objects in real-time using TensorFlow and OpenCV.  
-- **Technologies:** TensorFlow, Python, OpenCV  
-- **Impact:** Enables fast, reliable object detection for robotics and automation projects.
+### 🧠 [ARM-Cortex-M-Architecture](https://github.com/ibucz/ARM-Cortex-M-Architecture.git)
+Implementation of **SysTick Timer and NVIC drivers** for ARM Cortex-M microcontrollers.  
+**Tech Stack:**  
+![ARM](https://img.shields.io/badge/ARM-555?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
+**Key Features:** Periodic and one-shot timer interrupts, priority-based interrupt management, callback-driven actions.
+
+---
+
+### 🤖 [-Differential-Drive-Robot](https://github.com/ibucz/-Differential-Drive-Robot.git)
+Differential drive robot with **URDF modeling, mapping, and encoder-based odometry**.  
+**Tech Stack:**  
+![ROS](https://img.shields.io/badge/ROS-22314F?style=flat-square&logo=ros&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-555?style=flat-square)  
+**Key Features:** Autonomous navigation, simulated robot dynamics, real-time localization.
+
+---
+
+### 🛠️ [RTOS](https://github.com/ibucz/RTOS.git)
+Real-time system for **automotive seat heating control** using FreeRTOS on STM32.  
+**Tech Stack:**  
+![STM32](https://img.shields.io/badge/STM32-2F5A9D?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555?style=flat-square)  
+**Key Features:** Task scheduling, precise temperature regulation, reliable real-time performance.
+
+
 
 ---
 
